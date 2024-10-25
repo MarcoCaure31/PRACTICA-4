@@ -1,0 +1,38 @@
+.about-section {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about-section h1 {
+    color: #ff4081;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.about-section h2 {
+    color: #f0f0f0;
+    margin-top: 20px;
+}
+
+.about-section p {
+    line-height: 1.6;
+    margin: 15px 0;
+}
+
+.values-list, .milestones-list {
+    list-style: none;
+    padding: 0;
+}
+
+.values-list li, .milestones-list li {
+    background-color: #333;
+    padding: 10px;
+    margin: 8px 0;
+    border-radius: 5px;
+    color: #f0f0f0;
+}
